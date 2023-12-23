@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Arbaazbaig98/NewsApp/static/css/main.1d877097.css",
+    "main.js": "/Arbaazbaig98/NewsApp/static/js/main.7d35edbb.js",
+    "index.html": "/Arbaazbaig98/NewsApp/index.html",
+    "main.1d877097.css.map": "/Arbaazbaig98/NewsApp/static/css/main.1d877097.css.map",
+    "main.7d35edbb.js.map": "/Arbaazbaig98/NewsApp/static/js/main.7d35edbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d877097.css",
+    "static/js/main.7d35edbb.js"
+  ]
+}
